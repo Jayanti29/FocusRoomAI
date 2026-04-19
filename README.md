@@ -1,3 +1,4 @@
+![Status](https://img.shields.io/badge/Status-Work%20In%20Progress-FFB6C1?style=for-the-badge&logo=github&logoColor=white)
 # FocusRoom AI
 
 Collaborative study rooms with real-time focus tracking, live chat, badges & leaderboards.
